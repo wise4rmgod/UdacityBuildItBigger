@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="eu.wisdom.jokesdisplaylib">
+
+    <application>
+        <activity android:name="eu.wisdom.jokesdisplaylib.DisplayJokesActivity"></activity>
+    </application>
+
+</manifest>
